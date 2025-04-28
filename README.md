@@ -56,3 +56,8 @@ public static class EchoTool
     public static string Echo(string message) => $"hello {message}";
 }
 ```
+## Visual Studio Code Screenshots
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/01425887-2f02-44f1-9ed3-90d5062e97f7" />
+
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/78f3d5e2-5d58-45d9-bbdd-c0518b5171eb" />
+
