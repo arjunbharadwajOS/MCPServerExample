@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "my-mcp-server-436031f3": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:/Users/tarju/source/repos/mcpapp/mcpapp/mcpapp.csproj",
+            
+            ]
+        }
+    }
+}
